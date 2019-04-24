@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(232,234,237);
+  font-family: "Helvetica"
+}
+
+a {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: right;
+}
+
+img {
+  width: 50px;
+
+}
+
+h1 {
+  float: left;
+}
+
+div:nth-of-type(1){
+  text-align: center;
+}
